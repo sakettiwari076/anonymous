@@ -21,7 +21,7 @@ const Aboutus = () => {
 </div>
     </div>
     <div className=''>
-      <img src='realabout.gif' className='imageteam'></img>
+      <img src='realabout.gif' className='aboutimg  '></img>
     </div>
 
 

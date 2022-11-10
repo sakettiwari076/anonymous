@@ -5,9 +5,9 @@ const Homepage = () => {
   return (
     <div>
       <Navbar/>
-<section className="text-gray-600   sm:mx-10 leading-3  lg:px-32 mainfont body-font">
+<section className="text-gray-600  sm:pt-6 sm:mx-10 leading-3  lg:px-32 mainfont body-font">
     {/* guhihi */}
-  <div className="container mx-auto flex px-5  md:flex-row flex-col items-center">
+  <div className="container mt-10 mx-auto flex px-5  md:flex-row flex-col items-center">
     <div className="lg:flex-grow  lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left  md:mb-0 items-center text-center">
       <h1 className="title-font  text-2xl mb font-medium  mainfont letterspacemy">Community with Competetive Programers , Leetcoders and Developers.<br></br> <span className='font-bold'>KIET Group of Institutions</span> 
         {/* <br className="hidden lg:inline-block">readymade gluten</br> */}
