@@ -8,7 +8,7 @@ const Aboutus = () => {
         <div className='grid pt-10 mainfont lg:grid-cols-2 mx-10'>
     <div className='justify-center pt-8 lg:pl-32'>
         <h1 className='text-2xl font-semibold'>About us</h1>
-        <p className='text-gray-900 pt-5 font-normal'>      We are a group of excited people with a clear sense of purpose. We believe in continuous learning and development. We are adaptive to upcoming challenges in technology and management. We learn, code, preach, and grow together. Here at DSC KIET, we are not just a team, we are a growing family of developers.
+        <p className='text-gray-900 pt-5 font-normal'>      We are a group of excited and enthusiastic people who are intrested in technology.We are here to remove the bounderies between CP , DSA , Developmentby making an all around growth in an individual.Moreover we are like a family which supports every individual as per the requirements.This is how we grow together.
 </p>
 <p className=''>Our members active on </p>
 <div className='flex gap-4 pt-4'>
@@ -21,7 +21,7 @@ const Aboutus = () => {
 </div>
     </div>
     <div className=''>
-      <img src='realabout.gif' className='aboutimg  '></img>
+      <img src='realabout.gif' className='aboutimg'></img>
     </div>
 
 

@@ -8,7 +8,7 @@ const Team = () => {
 <div className='grid pt-10 mainfont lg:grid-cols-2 mx-10'>
     <div className='justify-center pt-8 lg:pl-32'>
         <h1 className='text-2xl font-semibold '>Our Team</h1>
-        <p className='text-gray-900 pt-5 font-normal'>      We are a group of excited people with a clear sense of purpose. We believe in continuous learning and development. We are adaptive to upcoming challenges in technology and management. We learn, code, preach, and grow together. Here at DSC KIET, we are not just a team, we are a growing family of developers.
+        <p className='text-gray-900 pt-5 font-normal'>We have a family thats works together , Our Team members will provide all sort of help with our level best. You can contact us via our instagram handles , linkedin and other social media platforms.
 </p>
     </div>  
     <div className='flex '>
