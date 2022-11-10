@@ -3,11 +3,20 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import Homepage from './components/Homepage';
+import Aboutus from './components/Aboutus';
+import Footer from './components/Footer'
+import Contactus from './components/Contactus';
+import Team from './components/Team';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <Homepage/> */}
+    {/* <Aboutus/> */}
+    <Team/>
+    {/* <Contactus/> */}
+    {/* <Footer/> */}
+    {/* <App /> */}
   </React.StrictMode>
 );
 

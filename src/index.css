@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.mainfont{
+    font-family: 'Poppins', sans-serif;
+    /* font-weight:bolder; */
+
+    /* font-weight: 700; */
+    color: rgb(66, 66, 66);
+    /* margin-top: 120px; */
+    /* padding-bottom: 48px; */
+}
+.letterspacemy{
+    letter-spacing:1px;
+    font-weight:bolder;
+    
+}
+.paracolor{
+    color: rgb(112, 112, 112);
+}
+.imageteam{
+height: 20rem;
+position: relative;
+bottom: 2rem;
+left: 7rem;
+}
