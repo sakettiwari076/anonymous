@@ -5,7 +5,8 @@ function Navbar() {
   return (
     <div >
       <nav >
-        <Link className='navhead' to="/">BrainBits.</Link>
+        <Link className='navhead' to="/"><img src="logo.jpeg" alt="" className='
+        w-28' /></Link>
         <ul>
             {/* <div className=''> */}
             
