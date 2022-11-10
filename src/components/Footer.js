@@ -3,17 +3,17 @@ import React from 'react'
 const Footer = () => {
   return (
     <div>
-        
-  <p className=' bgour6 text-xl text-black text-center
-  '>© 2021-22 Deepika Prints. All Rights Reserved.</p>
+        <div className='bg-gray-200'>
+  <p className=' mainfont text-xl text-black text-center
+  '>© 2022-23 BrainBits. All Rights Reserved.</p>
   <div className="w-full bgour6   text-center">
-          <a className="">Deepikaprints7@gmail.com</a>
-          <p className="leading-normal my-2 ">Flat No 452 , Adarsh Apartment
-            <br></br>Pocket-16 , Sector 3 , Delhi , 110075
-          </p>
-          <p className=""> Contact : 7827102242</p>
+          <a className="">brainbits@gmail.com</a>
+          {/* <p className="leading-normal my-2 ">KIET Group Of Institution , */}
+            {/* <br></br>Ghaziabad  */}
+          {/* </p> */}
+          <p className="py-1"> Contact : 7061280059</p>
 
-          <span className="inline-flex">
+          <span className="inline-flex py-2">
             <a className="text-gray-500">
               <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                 <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
@@ -36,6 +36,7 @@ const Footer = () => {
               </svg>
             </a>
           </span>
+    </div>
     </div>
     </div>
   )
