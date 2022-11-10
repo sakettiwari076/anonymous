@@ -1,13 +1,22 @@
-import logo from './logo.svg';
+import { Routes, Route } from "react-router-dom"
 import './App.css';
 
+import Homepage from './components/Homepage';
+import Aboutus from './components/Aboutus';
+import Footer from './components/Footer'
+import Contactus from './components/Contactus';
+import Team from './components/Team';
 function App() {
   return (
 
-    <div className='mainfont'>
-      <p className='text-2xl font-bold text-black'>
-      We are a group of excited people with a clear sense of purpose. We believe in continuous learning and development. We are adaptive to upcoming challenges in technology and management. We learn, code, preach, and grow together. Here at DSC KIET, we are not just a team, we are a growing family of developers.
-      </p>
+    <div>
+      <Routes>
+      <Route path="/" element={ <Homepage/>} />
+      <Route path="/about" element={<Aboutus/>} />
+      <Route path="/team" element={<Team/>} />
+      <Route path="/contact" element={<Contactus/>} />
+      <Route path="/footer" element={<Footer/>} />
+      </Routes>
     </div>
   );
 }

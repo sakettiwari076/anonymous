@@ -1,9 +1,10 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const Team = () => {
   return (
     <div>
-
+  <Navbar/>
 <div className='grid pt-10 mainfont lg:grid-cols-2 mx-10'>
     <div className='justify-center pt-8 pl-32'>
         <h1 className='text-2xl font-semibold'>Our Team</h1>

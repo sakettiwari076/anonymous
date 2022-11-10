@@ -1,8 +1,10 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const Homepage = () => {
   return (
     <div>
+      <Navbar/>
 <section className="text-gray-600   sm:mx-10 leading-3  lg:px-32 mainfont body-font">
     {/* guhihi */}
   <div className="container mx-auto flex px-5  md:flex-row flex-col items-center">

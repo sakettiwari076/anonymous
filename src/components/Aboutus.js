@@ -1,8 +1,10 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const Aboutus = () => {
   return (
     <div>
+      <Navbar/>
         <div className='grid pt-10 mainfont lg:grid-cols-2 mx-10'>
     <div className='justify-center pt-8 lg:pl-32'>
         <h1 className='text-2xl font-semibold'>About us</h1>
