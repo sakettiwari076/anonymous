@@ -28,6 +28,26 @@ position: relative;
 bottom: 2rem;
 left: 7rem;
 }
+.tele{
+    cursor: pointer;
+}
+.tele:hover{
+color: #0088CC;
+}
+.insta{
+    margin-left: 2px;
+    cursor: pointer;
+}
+.insta:hover{
+    color: #C13584;
+    
+}
+.twit:hover{
+    color: #0088CC;
+}
+.disc:hover{
+    color: black;
+}
 @media only screen and (max-width: 1022px) {
     .imageteam{
         display:none;

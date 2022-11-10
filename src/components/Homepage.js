@@ -14,11 +14,21 @@ const Homepage = () => {
         {/* <br className="hidden lg:inline-block">readymade gluten</br> */}
       </h1>
       {/* <p className="mb-8 leading-relaxed">Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.</p> */}
+      
       <div className="flex justify-center">
         <a href='https://forms.gle/cjCWWXFrfLhUq7oD9'>
         <button className="inline-flex text-white font-bold bg-indigo-500 border-0 py-2 px-6 focus:outline-none mt-5 hover:bg-indigo-600 rounded text-lg">Join our community</button>
         </a>
         {/* <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button> */}
+      </div>
+      <div className='flex mt-7 gap-3 cursor-pointer '>
+        <a href="https://www.linkedin.com/in/brainbits-kiet-336989256/" target="_blanck "><i class="fa-brands fa-linkedin fa-2x tele"></i></a>
+    
+      <a href="https://www.instagram.com/brainbitskiet/?next=%2F"><i class="fa-brands fa-instagram fa-2x insta"></i></a>
+      <a href="https://t.me/+GQr07DpdkIozZWY9" target="_blanck"> <i class="fa-brands fa-telegram fa-2x tele"></i></a>
+      <i class="fa-brands fa-discord fa-2x disc"></i>
+      <i class="fa-brands fa-twitter fa-2x twit"></i>
+    
       </div>
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

@@ -28,28 +28,28 @@ const Team = () => {
     <div className="p-2 lg:w-1/3 md:w-1/2 w-full transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
 
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/80x80"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="saket.jpeg"/>
           <div className="flex-grow">
           <h2 className="text-gray-900 title-font font-medium">Saket Tiwari</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p> <a href="https://www.linkedin.com/in/saket-tiwari-603300213/" target="_blanck"><i class="fa-brands fa-linkedin fa-2x tele"></i></a><i class="fa-brands fa-instagram fa-2x insta">  </i>
           </div>
         </div>
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/84x84"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="aryan.jpeg"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Aryan Tiwari</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><a href="https://www.linkedin.com/in/aryan-tiwari-b397b8229/" target="_blanck"><i class="fa-brands fa-linkedin fa-2x tele"></i></a>   <i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/88x88"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="vaibhav.jpeg"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Vaibhav Bisht</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
@@ -58,7 +58,7 @@ const Team = () => {
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/90x90"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Ashish Bhatt</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
@@ -66,8 +66,8 @@ const Team = () => {
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/94x94"/>
           <div className="flex-grow">
-            <h2 className="text-gray-900 title-font font-medium">Saheb Singh</h2>
-            <p className="text-gray-500">Soon</p>
+            <h2 className="text-gray-900 title-font font-medium">Sahib Singh</h2>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
@@ -76,7 +76,7 @@ const Team = () => {
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/98x98"/>
           <div className="flex-grow">
             <h2 className=" text-gray-900 title-font font-medium">Prabhat Sahrawat</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
@@ -85,7 +85,7 @@ const Team = () => {
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/100x90"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Yash Varshney</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
@@ -94,16 +94,16 @@ const Team = () => {
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/104x94"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Akash Nehra</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/108x98"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="dev.jpeg"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Dev Varshney</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
@@ -112,7 +112,8 @@ const Team = () => {
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/108x98"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium"> Om Daryani</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i>
+            <i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>
@@ -121,7 +122,7 @@ const Team = () => {
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/108x98"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Riya</h2>
-            <p className="text-gray-500">Soon</p>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
       </div>

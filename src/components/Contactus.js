@@ -8,6 +8,7 @@ const Contactus = () => {
 <div className='flex justify-center'>
 
   <img src='commingsoon.gif' className=''/>
+  
 </div>
     </div>
   )
