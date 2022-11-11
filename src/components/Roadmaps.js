@@ -8,7 +8,7 @@ function Roadmaps() {
         <Navbar/>
         <section className='mt-10'>
             <div className='lg:text-5xl text-2xl  text-center font-extrabold text-zinc-900'>Everything From Basics to Advance</div>
-            <p className='text-center py-5 mx-8 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique repellendus laborum, voluptates optio culpa explicabo laudantium repellat maxime quia vitae deleniti accusamus natus consequuntur esse nisi, temporibus, veniam ratione quis? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque deserunt nam distinctio rerum ipsum quis, qui eius. Recusandae quia labore in magni aut, voluptatibus, harum ducimus quo cum, mollitia commodi?</p>
+            <p className='text-center py-5 mx-8 lg:text-xl'>Hey folks, In Roadmap section at Brainbits we will be uploading roadmaps related to different domains with expert level of research and experience .</p>
         </section>
         <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto cursor-pointer">
@@ -89,7 +89,7 @@ function Roadmaps() {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/720x400" alt="blog"/>
+          <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="flutter.webp" alt="blog"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">App Development</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Flutter</h1>
@@ -107,7 +107,7 @@ function Roadmaps() {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-          <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/720x400" alt="blog"/>
+          <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="native.png" alt="blog"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1"> App Development</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">React-Native</h1>
