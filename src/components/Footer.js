@@ -7,7 +7,7 @@ const Footer = () => {
   <p className=' mainfont text-xl text-black text-center
   '>© 2022-23 BrainBits. All Rights Reserved.</p>
   <div className="w-full bgour6 mainfont  text-center">
-          <a className="">brainbits@gmail.com</a>
+          <a className="">brainbitsapp@gmail.com</a>
           {/* <p className="leading-normal my-2 ">KIET Group Of Institution , */}
             {/* <br></br>Ghaziabad  */}
           {/* </p> */}

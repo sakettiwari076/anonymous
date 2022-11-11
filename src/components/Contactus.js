@@ -7,7 +7,7 @@ const Contactus = () => {
       <Navbar/>
 <div className='flex justify-center'>
 
-  <img src='commingsoon.gif' className=''/>
+  <img src='commingsoon.gif' className='pt-1'/>
   
 </div>
     </div>
