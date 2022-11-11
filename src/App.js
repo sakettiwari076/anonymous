@@ -6,6 +6,7 @@ import Aboutus from './components/Aboutus';
 import Footer from './components/Footer'
 import Contactus from './components/Contactus';
 import Team from './components/Team';
+import Roadmaps from "./components/Roadmaps";
 function App() {
   return (
 
@@ -16,6 +17,7 @@ function App() {
       <Route path="/team" element={<Team/>} />
       <Route path="/contact" element={<Contactus/>} />
       <Route path="/footer" element={<Footer/>} />
+      <Route path="/roadmap" element={<Roadmaps/>}/>
       </Routes>
     </div>
   );

@@ -9,9 +9,9 @@ export default function Navbar() {
                 <div>
                     <div className="flex items-center justify-between py-3 md:py-5 md:block">
                         
-                        <Link to="/" >
-                         <img src="logo.jpeg" alt="" className="w-20" />
-                            
+                        <Link to="/" className="flex items-center">
+                         <img src="logo.jpeg" alt="" className="w-24" />
+                            <h2 className="text-2xl font-bold">BrainBits</h2>
                         </Link>
                         <div className="md:hidden">
                             <button
@@ -63,6 +63,9 @@ export default function Navbar() {
                                <Link to="/">Home</Link> 
                             </li>
                             <li className="text-gray-600 hover:text-blue-600" >
+                            <Link to="/roadmap">RoadMaps</Link> 
+                            </li>
+                            <li className="text-gray-600 hover:text-blue-600" >
                             <Link to="/about">About</Link> 
                             </li>
                             <li className="text-gray-600 hover:text-blue-600" >
@@ -71,6 +74,9 @@ export default function Navbar() {
                             <li className="text-gray-600 hover:text-blue-600" >
                             <Link to="/contact">ContactUs</Link> 
                             </li>
+                            
+
+                            
                         </ul>
                     </div>
                 </div>
