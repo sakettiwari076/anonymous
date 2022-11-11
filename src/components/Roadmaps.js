@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 
 function Roadmaps() {
   return (
-    <div className='mainfont'>
+    <>
         <Navbar/>
         <section className='mt-10'>
             <div className='lg:text-5xl text-2xl  text-center font-extrabold text-zinc-900'>Everything From Basics to Advance</div>
@@ -127,7 +127,7 @@ function Roadmaps() {
   </div>
 </section>
 <Footer/>
-    </div>
+    </>
   )
 }
 
