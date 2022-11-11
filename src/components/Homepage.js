@@ -22,7 +22,7 @@ const Homepage = () => {
         {/* <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button> */}
       </div>
       <div className='flex mt-7 gap-3 cursor-pointer '>
-        <a href="https://www.linkedin.com/in/brainbits-kiet-336989256/" target="_blanck "><i class="fa-brands fa-linkedin fa-2x tele"></i></a>
+        <a href="https://www.linkedin.com/company/brainbits-kiet/" target="_blanck "><i class="fa-brands fa-linkedin fa-2x tele"></i></a>
     
       <a href="https://www.instagram.com/brainbitskiet/?next=%2F"><i class="fa-brands fa-instagram fa-2x insta"></i></a>
       <a href="https://t.me/+GQr07DpdkIozZWY9" target="_blanck"> <i class="fa-brands fa-telegram fa-2x tele"></i></a>

@@ -11,6 +11,8 @@ import dev from '../assests/team/dev.jpeg'
 import ria from '../assests/team/ria.jpeg'
 import om from '../assests/team/omdaryani.jpg'
 import sahib from '../assests/team/sahib.jpg'
+import dhruv from '../assests/team/dhruv.jpg'
+
 
 
 
@@ -120,6 +122,15 @@ const Team = () => {
           <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src={ashwin}/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">Ashiwn Yadav</h2>
+            <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
+          </div>
+        </div>
+      </div>
+      <div className="p-2 lg:w-1/3 md:w-1/2 w-full transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
+        <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src={dhruv}/>
+          <div className="flex-grow">
+            <h2 className="text-gray-900 title-font font-medium">Dhruv Rastogi</h2>
             <p className="text-gray-500">Soon</p><i class="fa-brands fa-linkedin fa-2x tele"></i><i class="fa-brands fa-instagram fa-2x insta"></i>
           </div>
         </div>
