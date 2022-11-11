@@ -51,7 +51,7 @@ function Roadmaps() {
           </div>
         </div>
       </div>
-      <div className="p-4 md:w-1/3  transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
+      <div className="p-4 md:w-1/3 ">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="programming.jpg" alt="blog" />
           <div className="p-6">
