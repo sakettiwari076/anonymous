@@ -9,9 +9,9 @@ export default function Navbar() {
                 <div>
                     <div className="flex items-center justify-between py-3 md:py-5 md:block">
                         
-                        <Link to="/" className="flex items-center">
+                        <Link to="/" >
                          <img src="logo.jpeg" alt="" className="w-20" />
-                            <h2 className="text-2xl font-bold">BrainBits</h2>
+                            
                         </Link>
                         <div className="md:hidden">
                             <button
