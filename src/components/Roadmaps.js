@@ -7,8 +7,8 @@ function Roadmaps() {
     <div className='mainfont'>
         <Navbar/>
         <section className='mt-10'>
-            <div className='text-8xl  text-center font-extrabold text-zinc-900'>Everything From Basics to Advance</div>
-            <p className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique repellendus laborum, voluptates optio culpa explicabo laudantium repellat maxime quia vitae deleniti accusamus natus consequuntur esse nisi, temporibus, veniam ratione quis? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque deserunt nam distinctio rerum ipsum quis, qui eius. Recusandae quia labore in magni aut, voluptatibus, harum ducimus quo cum, mollitia commodi?</p>
+            <div className='lg:text-5xl text-2xl  text-center font-extrabold text-zinc-900'>Everything From Basics to Advance</div>
+            <p className='text-center py-5 mx-8 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique repellendus laborum, voluptates optio culpa explicabo laudantium repellat maxime quia vitae deleniti accusamus natus consequuntur esse nisi, temporibus, veniam ratione quis? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque deserunt nam distinctio rerum ipsum quis, qui eius. Recusandae quia labore in magni aut, voluptatibus, harum ducimus quo cum, mollitia commodi?</p>
         </section>
         <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto cursor-pointer">
