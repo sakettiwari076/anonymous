@@ -8,12 +8,12 @@ function Roadmaps() {
         <Navbar/>
         <section className='mt-10'>
             <div className='lg:text-5xl text-2xl  text-center font-extrabold text-zinc-900'>Everything From Basics to Advance</div>
-            <p className='text-center py-5 mx-8 lg:text-xl'>Hey folks, In Roadmap section at Brainbits we will be uploading roadmaps related to different domains with expert level of research and experience .</p>
+            <p className='text-center pt-5 mx-8 lg:text-xl'>Hey folks, In Roadmap section at Brainbits we will be uploading roadmaps related to different domains with expert level of research and experience .</p>
         </section>
         <section className="text-gray-600 body-font">
-  <div className="container px-5 py-24 mx-auto cursor-pointer">
+  <div className="container px-5 py-10 mx-auto cursor-pointer">
     <div className="flex flex-wrap -m-4">
-      <div className="p-4 md:w-1/3">
+      <div className="p-4 md:w-1/3  transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="frontend.jpg" alt="blog"/>
           <div className="p-6">
@@ -31,7 +31,7 @@ function Roadmaps() {
           </div>
         </div>
       </div>
-      <div className="p-4 md:w-1/3">
+      <div className="p-4 md:w-1/3  transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="backend.jpg" alt="blog"/>
           <div className="p-6">
@@ -51,7 +51,7 @@ function Roadmaps() {
           </div>
         </div>
       </div>
-      <div className="p-4 md:w-1/3">
+      <div className="p-4 md:w-1/3  transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="programming.jpg" alt="blog" />
           <div className="p-6">
@@ -69,7 +69,7 @@ function Roadmaps() {
           </div>
         </div>
       </div>
-      <div className="p-4 md:w-1/3">
+      <div className="p-4 md:w-1/3  transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="android.jpg" alt="blog"/>
           <div className="p-6">
@@ -87,7 +87,7 @@ function Roadmaps() {
           </div>
         </div>
       </div>
-      <div className="p-4 md:w-1/3">
+      <div className="p-4 md:w-1/3  transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="flutter.webp" alt="blog"/>
           <div className="p-6">
@@ -105,7 +105,7 @@ function Roadmaps() {
           </div>
         </div>
       </div>
-      <div className="p-4 md:w-1/3">
+      <div className="p-4 md:w-1/3  transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="native.png" alt="blog"/>
           <div className="p-6">
