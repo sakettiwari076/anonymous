@@ -44,12 +44,12 @@ const Homepage = () => {
 </p>
 <p className=''>Our members active on </p>
 <div className='flex gap-4 pt-4'>
-<img src='github.webp' className='h-10'/>
-<img src='gfg.webp' className='h-10'/>
-<img src='codeshef.webp' className='h-10'/>
-<img src='codeforces.webp' className='h-10'/>
+<img src='github.webp' className='h-10 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...'/>
+<img src='gfg.webp' className='h-10 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...'/>
+<img src='codeshef.webp' className='h-10 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...'/>
+<img src='codeforces.webp' className='h-10 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...'/>
 
-    <img src='leetcode.webp' className='h-10'/>
+    <img src='leetcode.webp' className='h-10 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...'/>
 </div>
     </div>
     <div className=''>
