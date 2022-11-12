@@ -10,42 +10,42 @@ const Card = () => {
     </div>
     <div className="flex flex-wrap -m-4">
       <div className="xl:w-1/3 md:w-1/2 p-4">
-        <div className="border border-violet-800  p-6 rounded-lg backgroundout transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
-            <img src='logoman.webp' className='h-9'/>
+        <div className="border border-violet-800  p-6 rounded-lg backgroundout ">
+            <img src='expected.webp' className='h-9'/>
           {/* <div className="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-6 h-6" viewBox="0 0 24 24">
               <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
             </svg>
           </div> */}
-          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ... hover:text-gray-700 cursor-pointer ">Competetive Programming</h2>
-          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ...  lg:hover:text-gray-700 cursor-pointer ">Competetive Programming</h2>
+          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600">We use platforms like codeshef , hackerrank , codeforces for CP.</p>
         </div>
       </div>
-      <div className="xl:w-1/3 md:w-1/2 p-4 ">
-        <div className="border border-violet-800 p-6 rounded-lg backgroundout transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
+      {/* <div className="xl:w-1/3 md:w-1/2 p-4 ">
+        <div className="border border-violet-800 p-6 rounded-lg backgroundout ">
                       <img src='logoman.webp' className='h-9'/>
 
-          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ... hover:text-gray-700 cursor-pointer">Web Develpment</h2>
-          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ... hover:r">Web Develpment</h2>
+          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600">Frontend React Js , Next Js, Backend Express Js  , Node Js, Database MongoDB , Firebase</p>
+        </div>
+      </div> */}
+            <div className="xl:w-1/3 md:w-1/2 p-4">
+        <div className="border border-violet-800 p-6 rounded-lg backgroundout ">
+                      <img src='expected.webp' className='h-9'/>
+          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ">Web Development</h2>
+          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600 ">Frontend React Js , Next Js, Backend Express Js  , Node Js, Database MongoDB , Firebase</p>
         </div>
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
-        <div className="border border-violet-800 p-6 rounded-lg backgroundout transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110   duration-300 ...">
-          {/* <div className="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-6 h-6" viewBox="0 0 24 24">
-              <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-              <circle cx="12" cy="7" r="4"></circle>
-            </svg>
-          </div> */}
-                      <img src='logoman.webp' className='h-9'/>
-          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ... hover:text-gray-700 cursor-pointer">DSA</h2>
-          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600 ">Fingerstache flexitarian street art 8-bit waist co, subway tile poke farm.</p>
+        <div className="border border-violet-800 p-6 rounded-lg backgroundout ">
+                      <img src='expected.webp' className='h-9'/>
+          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ">DSA</h2>
+          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600 ">DSA Domain is the most important domain for placement prespective we use Leetcode and gfg.</p>
         </div>
       </div>
     </div>
   </div>
 </section>
-
   )
 }
 
