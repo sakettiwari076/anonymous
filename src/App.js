@@ -7,7 +7,8 @@ import Footer from './components/Footer/Footer'
 import Contactus from './components/Contactus/Contactus';
 import Team from './components/Team/Team';
 import Roadmaps from "./components/Roadmap/Roadmaps";
-import Python from "./components/Python/Python";
+import Python from "./components/Compiler/Python";
+
 
 function App() {
   return (
@@ -20,8 +21,7 @@ function App() {
       <Route path="/contact" element={<Contactus/>} />
       <Route path="/footer" element={<Footer/>} />
       <Route path="/roadmap" element={<Roadmaps/>}/>
-      <Route path="/python" element={<Python/>}/>
-
+      <Route path="/compiler" element={<Python/>}/>
       </Routes>
     </div>
   );

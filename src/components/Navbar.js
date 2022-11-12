@@ -71,9 +71,9 @@ export default function Navbar() {
                             <li className="text-gray-600 hover:text-blue-600" >
                             <Link to="/team">Team</Link> 
                             </li>
-                           
+                            
                             <li className="text-gray-600 hover:text-blue-600" >
-                            <Link to="/python">Compiler</Link> 
+                            <Link to="/compiler">Compiler</Link> 
                             </li>
                             <li className="text-gray-600 hover:text-blue-600" >
                             <Link to="/contact">ContactUs</Link> 

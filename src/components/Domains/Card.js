@@ -1,4 +1,5 @@
 import React from 'react'
+import DomainCard from './DomainCard'
 
 const Card = () => {
   return (
@@ -9,40 +10,10 @@ const Card = () => {
       <h1 className="sm:text-3xl text-2xl font-semibold title-font   text-gray-900">Domains</h1>
     </div>
     <div className="flex flex-wrap -m-4">
-      <div className="xl:w-1/3 md:w-1/2 p-4">
-        <div className="border border-violet-800  p-6 rounded-lg backgroundout ">
-            <img src='expected.webp' className='h-9'/>
-          {/* <div className="w-10 h-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
-            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-6 h-6" viewBox="0 0 24 24">
-              <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-            </svg>
-          </div> */}
-          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ...  lg:hover:text-gray-700 cursor-pointer ">Competetive Programming</h2>
-          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600">We use platforms like codeshef , hackerrank , codeforces for CP.</p>
-        </div>
-      </div>
-      {/* <div className="xl:w-1/3 md:w-1/2 p-4 ">
-        <div className="border border-violet-800 p-6 rounded-lg backgroundout ">
-                      <img src='logoman.webp' className='h-9'/>
-
-          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ... hover:r">Web Develpment</h2>
-          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600">Frontend React Js , Next Js, Backend Express Js  , Node Js, Database MongoDB , Firebase</p>
-        </div>
-      </div> */}
-            <div className="xl:w-1/3 md:w-1/2 p-4">
-        <div className="border border-violet-800 p-6 rounded-lg backgroundout ">
-                      <img src='expected.webp' className='h-9'/>
-          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ">Web Development</h2>
-          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600 ">Frontend React Js , Next Js, Backend Express Js  , Node Js, Database MongoDB , Firebase</p>
-        </div>
-      </div>
-      <div className="xl:w-1/3 md:w-1/2 p-4">
-        <div className="border border-violet-800 p-6 rounded-lg backgroundout ">
-                      <img src='expected.webp' className='h-9'/>
-          <h2 className="text-lg text-gray-900 font-bold title-font mb-2 mt-2 antialiased ">DSA</h2>
-          <p className="leading-relaxed text-base text-violet-800 font-medium hover:text-violet-600 ">DSA Domain is the most important domain for placement prespective we use Leetcode and gfg.</p>
-        </div>
-      </div>
+            <DomainCard  domain="Competitive-Programming" data="We are using platforms like  CodeChef , Codeforces,Hackerrank etc.  "/>
+            <DomainCard className="domback" domain="Web Development" data="Frontend React Js , Next Js, Backend Express Js  , Node Js, Database MongoDB , Firebase"/>
+            <DomainCard className="domback"  domain="DSA" data="DSA Domain is the most important domain for placement prespective we use Leetcode etc."/>
+  
     </div>
   </div>
 </section>
