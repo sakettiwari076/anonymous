@@ -8,7 +8,7 @@ const Aboutus = () => {
         <div className='grid pt-10 mainfont lg:grid-cols-2 mx-10'>
     <div className='justify-center pt-8 lg:pl-32'>
         <h1 className='text-2xl font-semibold'>About us</h1>
-        <p className='text-gray-900 pt-5 font-normal'>      We are a group of excited and enthusiastic people who are intrested in technology.We are here to remove the bounderies between CP , DSA , Development by making an all around growth in an individual.Moreover we are like a family which supports every individual as per the requirements.This is how we grow together.
+        <p className='text-gray-900 pt-5 font-normal'>We are a group of enthusiastic people who work together for all around growth of an individual. We conduct workshops related to different tech domains and all encourage an individual to learn the things in the proper manner with expert understanding. We are the fastest growing community in Kiet Group of Insititutions.
 </p>
 <p className=''>Our members active on </p>
 <div className='flex gap-4 pt-4'>

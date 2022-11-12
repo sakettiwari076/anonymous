@@ -19,8 +19,15 @@
     font-weight:bolder;
     
 }
+.backgroundout{
+box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
 .paracolor{
     color: rgb(112, 112, 112);
+}
+.cardbg {
+   background: rgb(66, 66, 66);
+
 }
 .imageteam{
 height: 20rem;
