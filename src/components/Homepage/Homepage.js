@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from './Navbar'
-import Aboutus from './Aboutus';
-import Footer from './Footer';
+import Navbar from '../Navbar'
+import Aboutus from '../Aboutus/Aboutus';
+import Footer from '../Footer/Footer';
 const Homepage = () => {
   return (
     <div>

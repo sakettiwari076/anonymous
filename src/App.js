@@ -1,12 +1,12 @@
 import { Routes, Route } from "react-router-dom"
 import './App.css';
 
-import Homepage from './components/Homepage';
-import Aboutus from './components/Aboutus';
-import Footer from './components/Footer'
-import Contactus from './components/Contactus';
-import Team from './components/Team';
-import Roadmaps from "./components/Roadmaps";
+import Homepage from './components/Homepage/Homepage';
+import Aboutus from './components/Aboutus/Aboutus';
+import Footer from './components/Footer/Footer'
+import Contactus from './components/Contactus/Contactus';
+import Team from './components/Team/Team';
+import Roadmaps from "./components/Roadmap/Roadmaps";
 function App() {
   return (
 
