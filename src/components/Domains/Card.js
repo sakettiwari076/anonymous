@@ -10,7 +10,7 @@ const Card = () => {
       <h1 className="sm:text-3xl text-2xl font-extrabold title-font   text-gray-900">Domains</h1>
     </div>
     <div className="flex flex-wrap -m-4">
-            <DomainCard  domain="Competitive-Programming" data="We have Team of Domain Experts .They are availble to help you .If you want then join our community"/>
+            <DomainCard  domain="Comp-Programming" data="We have Team of Domain Experts .They are availble to help you .If you want then join our community"/>
             <DomainCard  domain="Web Development" data="We have Team of Domain Experts .They are availble to help you .If you want then join our community"/>
             <DomainCard   domain="DSA" data="We have Team of Domain Experts .They are availble to help you .If you want then join our community"/>
   
