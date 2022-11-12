@@ -18,7 +18,7 @@ const Homepage = () => {
       
       <div className="flex justify-center">
         <a href='https://forms.gle/cjCWWXFrfLhUq7oD9'>
-        <button className=" domback inline-flex  text-white font-bold  bg-indigo-500 border-0 py-4 px-6 focus:outline-none mt-5 hover:bg-indigo-600 rounded text-lg">Join our community</button>
+        <button className="  inline-flex   font-bold text-white  bg-violet-500 border-0 py-2 px-6 focus:outline-none mt-5 hover:bg-indigo-600 rounded text-lg">Join our community</button>
         </a>
         {/* <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button> */}
       </div>
