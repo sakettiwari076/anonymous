@@ -10,9 +10,9 @@ const Card = () => {
       <h1 className="sm:text-3xl text-2xl font-extrabold title-font   text-gray-900">Domains</h1>
     </div>
     <div className="flex flex-wrap -m-4">
-            <DomainCard  domain="Competitive-Programming" data="We are using platforms like  CodeChef,Codeforces Hackerrank etc.  "/>
-            <DomainCard  domain="Web Development" data="Frontend React Js , Next Js, Backend Express Js  , Node Js, Database MongoDB , Firebase"/>
-            <DomainCard   domain="DSA" data="DSA Domain is the most important domain for placement prespective we use Leetcode etc."/>
+            <DomainCard  domain="Competitive-Programming" data="We have Team of Domain Experts .They are availble to help you .If you want then join our community"/>
+            <DomainCard  domain="Web Development" data="We have Team of Domain Experts .They are availble to help you .If you want then join our community"/>
+            <DomainCard   domain="DSA" data="We have Team of Domain Experts .They are availble to help you .If you want then join our community"/>
   
     </div>
   </div>
