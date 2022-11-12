@@ -8,7 +8,7 @@ function Roadmaps() {
     <>
         <Navbar/>
         <section className='mt-10'>
-            <div className='lg:text-5xl text-2xl  text-center font-extrabold text-zinc-900'>Everything From Basics to Advance</div>
+            <div className='lg:text-5xl text-2xl  text-center mainfont font-extrabold text-zinc-900'>Everything From Basics to Advance</div>
             <p className='text-center pt-5 mx-8 lg:text-xl'>Hey folks, In Roadmap section at Brainbits we will be uploading roadmaps related to different domains with expert level of research and experience .</p>
         </section>
         <section className="text-gray-600 body-font">
