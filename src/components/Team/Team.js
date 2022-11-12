@@ -12,6 +12,9 @@ import ria from '../../assests/team/ria.jpeg'
 import om from '../../assests/team/omdaryani.jpg'
 import sahib from '../../assests/team/sahib.jpg'
 import dhruv from '../../assests/team/dhruv.jpg'
+import lakshya from '../../assests/team/lakshya.png'
+
+import gaurav from '../../assests/team/gaurav.png'
 import TeamCard from './TeamCard'
 
 
@@ -47,16 +50,17 @@ const Team = () => {
    <TeamCard name="Saket Tiwari" position="Co-Founder" image={saket}/>
    <TeamCard name="Aryan Tiwari" position="Co-Founder" image={aryan}/>
    <TeamCard name="Vaibhav Bisht" position="Co-Founder" image={vaibhav}/>
-   <TeamCard name="Ashish Bhatt" position="soon" image={ashish}/>
-   <TeamCard name="Ashish Bhatt" position="soon" image={ashish}/>
-   <TeamCard name="Sahib Singh" position="soon" image={sahib}/>
-   <TeamCard name="Prabhat Sahrawat" position="soon" image={prabhat}/>
-   <TeamCard name="Yash Varshney" position="soon" image={yash}/>
-   <TeamCard name="Om Daryani" position="soon" image={om}/>
-   <TeamCard name="Ashiwn Yadav" position="soon" image={ashwin}/>
-   <TeamCard name="Dhruv Rastogi" position="soon" image={dhruv}/>
-   <TeamCard name="Dev Varshney" position="soon" image={dev}/>
-   <TeamCard name="Riya" position="soon" image={ria}/>
+   <TeamCard name="Ashish Bhatt" position="Coordinator" image={ashish}/>
+   <TeamCard name="Prabhat Sahrawat" position="Coordinator" image={prabhat}/>
+   <TeamCard name="Dev Varshney" position="Coordinator" image={dev}/>
+   <TeamCard name="Sahib Singh" position="CP Head" image={sahib}/>
+   <TeamCard name="Gaurav Payal" position="Graphics Head" image={gaurav}/>
+   <TeamCard name="Lakshya Garg" position="Social Media Manager" image={lakshya}/>
+   <TeamCard name="Ashiwn Yadav" position="Frontend Developer" image={ashwin}/>
+   <TeamCard name="Riya" position="Competetive Programmer" image={ria}/>
+   <TeamCard name="Yash Varshney" position="Web Developer" image={yash}/>
+   <TeamCard name="Om Daryani" position="Web Developer" image={om}/>
+   <TeamCard name="Dhruv Rastogi" position="Flutter Developer" image={dhruv}/>
     </div>
   </div>
   </div>
