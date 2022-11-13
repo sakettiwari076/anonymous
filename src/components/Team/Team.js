@@ -47,8 +47,8 @@ const Team = () => {
       {/* <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p> */}
     </div>
     <div className="flex flex-wrap -m-2">
-   <TeamCard name="Saket Tiwari" position="Co-Founder" image={saket}/>
-   <TeamCard name="Aryan Tiwari" position="Co-Founder" image={aryan}/>
+   <TeamCard name="Saket Tiwari" position="Co-Founder | President" image={saket}/>
+   <TeamCard name="Aryan Tiwari" position="Co-Founder | Vice President " image={aryan}/>
    <TeamCard name="Vaibhav Bisht" position="Co-Founder" image={vaibhav}/>
    <TeamCard name="Ashish Bhatt" position="Coordinator" image={ashish}/>
    <TeamCard name="Prabhat Sahrawat" position="Coordinator" image={prabhat}/>
@@ -57,7 +57,7 @@ const Team = () => {
    <TeamCard name="Gaurav Payal" position="Graphics Head" image={gaurav}/>
    <TeamCard name="Lakshya Garg" position="Social Media Manager" image={lakshya}/>
    <TeamCard name="Ashiwn Yadav" position="Frontend Developer" image={ashwin}/>
-   <TeamCard name="Riya" position="Competetive Programmer" image={ria}/>
+   <TeamCard name="Riya" position="Developer" image={ria}/>
    <TeamCard name="Yash Varshney" position="Web Developer" image={yash}/>
    <TeamCard name="Om Daryani" position="Web Developer" image={om}/>
    <TeamCard name="Dhruv Rastogi" position="Flutter Developer" image={dhruv}/>
