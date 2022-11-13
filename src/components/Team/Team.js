@@ -49,7 +49,7 @@ const Team = () => {
     <div className="flex flex-wrap -m-2">
    <TeamCard name="Saket Tiwari" position="Co-Founder" image={saket}/>
    <TeamCard name="Aryan Tiwari" position="Co-Founder" image={aryan}/>
-   <TeamCard name="Vaibhav Bisht" position="Co-Founder" image={vaibhav}/>
+   <TeamCard name="Vaibhav Bisht" position="General-Secretary" image={vaibhav}/>
    <TeamCard name="Ashish Bhatt" position="Coordinator" image={ashish}/>
    <TeamCard name="Prabhat Sahrawat" position="Coordinator" image={prabhat}/>
    <TeamCard name="Dev Varshney" position="Coordinator" image={dev}/>
