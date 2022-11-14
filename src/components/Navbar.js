@@ -13,6 +13,7 @@ export default function Navbar() {
                          <img src="logo.jpeg" alt="" className="w-24" />
                             <h2 className="text-2xl font-bold">BrainBits</h2>
                         </Link>
+                        
                         <div className="md:hidden">
                             <button
                                 className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
@@ -66,6 +67,9 @@ export default function Navbar() {
                             <Link to="/roadmap">RoadMaps</Link> 
                             </li>
                             <li className="text-gray-600 hover:text-blue-600" >
+                            <Link to="/contact">Mentors</Link> 
+                            </li>
+                            <li className="text-gray-600 hover:text-blue-600" >
                             <Link to="/about">About</Link> 
                             </li>
                             <li className="text-gray-600 hover:text-blue-600" >
@@ -75,13 +79,12 @@ export default function Navbar() {
                             <li className="text-gray-600 hover:text-blue-600" >
                             <Link to="/compiler">Compiler</Link> 
                             </li>
-                            <li className="text-gray-600 hover:text-blue-600" >
-                            <Link to="/contact">Mentors</Link> 
-                            </li>
+                         
                             
-
+                          
                             
                         </ul>
+                       
                     </div>
                 </div>
             </div>

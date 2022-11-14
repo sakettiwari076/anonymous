@@ -26,8 +26,9 @@ const Homepage = () => {
         <a href="https://www.linkedin.com/company/brainbitsapp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging%3BX2B3316eSZqWOZZelPIppQ%3D%3D&original_referer=" target="_blanck "><i class="fa-brands fa-linkedin fa-2x tele"></i></a>
     
       <a href="https://instagram.com/thebrainbits?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-instagram fa-2x insta"></i></a>
+      <a href="https://discord.gg/jekmFhnVFU" target="blanck"> <i class="fa-brands fa-discord fa-2x disc"></i></a>
       <a href="https://t.me/+GQr07DpdkIozZWY9" target="_blanck"> <i class="fa-brands fa-telegram fa-2x tele"></i></a>
-      <i class="fa-brands fa-discord fa-2x disc"></i>
+     
       <i class="fa-brands fa-twitter fa-2x twit"></i>
     
       </div>
