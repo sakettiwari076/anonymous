@@ -10,7 +10,7 @@ function RoadmapCard(props) {
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">{props.category}</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">{props.heading}</h1>
-            <p className="leading-relaxed mb-3">{props.data}</p>
+            <p className="leading-relaxed mb-3 hover:text-blue-600">{props.data}</p>
           </div>
         </div>
         </a>
