@@ -36,10 +36,7 @@ const Team = () => {
     <div className='flex '>
       <img src='team.gif' className='imageteam'></img>
     </div>
-
-
 </div>
-
 <div className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
@@ -62,15 +59,10 @@ const Team = () => {
    <TeamCard name="Riya" position="Developer" image={ria}/>
    <TeamCard name="Om Daryani" position="Web Developer" image={om}/>
    <TeamCard name="Dhruv Rastogi" position="Flutter Developer" image={dhruv}/>
-   
     </div>
   </div>
   </div>
 </div>
-
-    
-
-
   )
 }
 
