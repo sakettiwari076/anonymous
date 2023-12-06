@@ -46,19 +46,13 @@ const Team = () => {
     <div className="flex flex-wrap -m-2">
    <TeamCard name="Saket Tiwari"  linkLinkedin="https://www.linkedin.com/in/saket-tiwari-603300213" position="Co-Founder" image={saket}/>
    <TeamCard name="Aryan Tiwari"  linkLinkedin="https://www.linkedin.com/in/aryan-tiwari-b397b8229" position="Co-Founder" image={aryan}/>
-   <TeamCard name="Vaibhav Bisht" linkLinkedin="https://www.linkedin.com/in/vaibhav-bisht-54519522a" position="General-Secretary" image={vaibhav}/>
-   <TeamCard name="Ashish Bhatt" linkLinkedin="https://www.linkedin.com/in/ashish-bhatt-9b1937225" position="Coordinator" image={ashish}/>
-   <TeamCard name="Prabhat Sahrawat" linkLinkedin="https://www.linkedin.com/in/prabhatsahrawat" position="Coordinator" image={prabhat}/>
-   <TeamCard name="Dev Varshney" linkLinkedin="https://www.linkedin.com/in/varshneydev27" position="Coordinator" image={dev}/>
-   <TeamCard name="Sahib Singh" linkLinkedin="https://www.linkedin.com/in/sahib-singh-b715b2207" position="CP Head" image={sahib}/>
-   <TeamCard name="Gaurav Payal" linkLinkedin="https://www.linkedin.com/in/2oo3-gaurav" position="Graphics Head" image={gaurav}/>
-   <TeamCard name="Prakhal Gupta" linkLinkedin="https://www.linkedin.com/in/prakhal-gupta" position="Backend Developer" image={prakhal}/>
-   <TeamCard name="Lakshya Garg" linkLinkedin="https://www.linkedin.com/in/lakshya-garg-1358a6239" position="Social Media Manager" image={lakshya}/>
    <TeamCard name="Ashiwn Yadav" linkLinkedin="https://www.linkedin.com/in/ashwin-yadav-7930b0207" position="Frontend Developer" image={ashwin}/>
-   <TeamCard name="Yash Varshney" linkLinkedin="https://www.linkedin.com/in/yash-varshney-7b81ab1b1" position="Web Developer" image={yash}/>
-   <TeamCard name="Riya" linkLinkedin="" position="Developer" image={ria}/>
+   <TeamCard name="Prabhat Sahrawat" linkLinkedin="https://www.linkedin.com/in/prabhatsahrawat" position="Coordinator" image={prabhat}/>
+   <TeamCard name="Sakshi Gupta" linkLinkedin="https://www.linkedin.com/in/sakshi-gupta-9aa7b01b2" position="Frontend Developer" image={saket}/>
+   <TeamCard name="Gaurav Payal" linkLinkedin="https://www.linkedin.com/in/2oo3-gaurav" position="Graphics Head" image={gaurav}/>
+   <TeamCard name="Lakshya Garg" linkLinkedin="https://www.linkedin.com/in/lakshya-garg-1358a6239" position="Social Media Manager" image={lakshya}/>
    <TeamCard name="Om Daryani" linkLinkedin="https://www.linkedin.com/in/om-daryani-473151239" position="Web Developer" image={om}/>
-   <TeamCard name="Dhruv Rastogi" linkLinkedin="https://www.linkedin.com/in/dhruv-rastogi-62ab70229" position="Flutter Developer" image={dhruv}/>
+  
     </div>
   </div>
   </div>
